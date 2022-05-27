@@ -6,6 +6,7 @@
 		"php": ">=7.4.0"
 	},
 	"require-dev": {
+		"codeception/codeception": "^4.1"
 	},
 	"config": {
 		"sort-packages": true,
@@ -31,4 +32,3 @@
 		]
 	}
 }
-

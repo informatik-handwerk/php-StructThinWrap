@@ -1,0 +1,4 @@
+actor: IntegrationTester
+modules:
+    enabled:
+        - \ihde\php\StructThinWrap\codeception\Helper\Integration
