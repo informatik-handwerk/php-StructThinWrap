@@ -20,7 +20,10 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"ihde\\php\\StructThinWrap\\": "src/"
+			"ihde\\php74\\StructThinWrap\\": "src/php74/",
+			"ihde\\php80\\StructThinWrap\\": "src/php80/",
+			"ihde\\php81\\StructThinWrap\\": "src/php81/",
+			"ihde\\php82\\StructThinWrap\\": "src/php82/"
 		},
 		"files": [
 		]
