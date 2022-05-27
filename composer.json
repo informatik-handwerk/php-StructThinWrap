@@ -1,0 +1,34 @@
+{
+	"name": "ihde/struct-thin-wrap",
+	"description": "",
+	"license": "proprietary",
+	"require": {
+		"php": ">=7.4.0"
+	},
+	"require-dev": {
+	},
+	"config": {
+		"sort-packages": true,
+		"process-timeout": 2000,
+		"platform": {
+		}
+	},
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"repositories": [
+	],
+	"autoload": {
+		"psr-4": {
+			"ihde\\php\\StructThinWrap\\": "src/"
+		},
+		"files": [
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+		},
+		"files": [
+		]
+	}
+}
+
